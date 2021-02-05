@@ -1,4 +1,4 @@
-<h1 align="center">Kang Bang</h1>
+<h1 align="center">Kang Bang Server</h1><br>
 
 ## About The Project
 
