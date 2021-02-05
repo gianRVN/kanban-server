@@ -8,6 +8,7 @@ Kang Bang is a web-based, similar to the Kanban board, that organize your to-do-
 Kang bang is deployed on :
 * [Server](https://server-kang-bang.herokuapp.com)
 * [Client](https://kang-bang.web.app/)
+
 *You could check my [kanban-client](https://github.com/gianRVN/kanban-client) to get further info about the client side*
 
 ### Built With
