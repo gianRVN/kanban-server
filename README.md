@@ -9,7 +9,7 @@ Kang Bang is a web-based single page application (SPA), similar to the Kanban bo
 
 Kang bang is deployed on :
 * [Client](https://kang-bang.web.app/) (click)
-* Server is using Postrgre fro Heroku
+* Server is using PostrgreSQL from Heroku
 
 *(You could check my [kanban-client](https://github.com/gianRVN/kanban-client) repository to get further info about the client side)*
 
