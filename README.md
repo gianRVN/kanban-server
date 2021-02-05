@@ -8,8 +8,8 @@ Kang Bang is a web-based single page application (SPA), similar to the Kanban bo
 ## Deployment 
 
 Kang bang is deployed on :
-* [Server](https://server-kang-bang.herokuapp.com)
-* [Client](https://kang-bang.web.app/)
+* [Client](https://kang-bang.web.app/) (click)
+* Server is using Postrgre fro Heroku
 
 *(You could check my [kanban-client](https://github.com/gianRVN/kanban-client) repository to get further info about the client side)*
 
