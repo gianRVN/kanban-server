@@ -1,3 +1,5 @@
+<h1 align="center">Kang Bang</h1>
+
 ## About The Project
 
 Kang Bang is a web-based, similar to the Kanban board, that organize your to-do-list into online boards. A registered user has the ability to create a to-do-list on a specific list category that they made by themselves. The kanban-server repository represent a set of files that build the Kang Bang server
